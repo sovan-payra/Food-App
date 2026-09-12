@@ -929,7 +929,7 @@ git push origin feature/your-feature
 
 💼 **LinkedIn** https://www.linkedin.com/in/sovan-payra-8a17b9321/
 
-📸 **Instagram"" https://www.instagram.com/x.sovannn/
+📸 **Instagram** https://www.instagram.com/x.sovannn/
 
 🍔 **Food-App:** https://github.com/sovan-payra/Food-App
 
